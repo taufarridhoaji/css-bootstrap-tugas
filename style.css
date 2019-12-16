@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(219, 202, 202)
+}
+.features1{
+    float:left;
+}
+.detail1{
+    text-align: justify;
+}
+
+.features2{
+    clear: left;
+    float: right;
+}
+.detail2{
+    clear: left;
+    text-align: justify;
+}
+.features3{
+    clear: right;
+    float: left;
+}
+.detail3{
+    clear: right;
+    text-align: justify;
+}
+.interior1, .interior2, .interior3{
+    margin: 10px;
+}
+.about1{
+    width:200px;
+    height: 200px;
+    border-radius:100px;
+    border:5px solid black;
+}
